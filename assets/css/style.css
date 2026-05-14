@@ -81,3 +81,23 @@ body{
     color: white;
     text-align: center;
 }
+
+.formulario{
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    color:white;
+    background-color: ;
+}
+
+.contact_form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+}
+
+.img-carousel{
+    border-radius: 15px;
+}

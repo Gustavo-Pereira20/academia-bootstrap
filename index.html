@@ -61,7 +61,7 @@
                                 <li>
                                     <hr class="dropdown-divider">
                                 </li>
-                                <li><a class="dropdown-item" href="#">Ir para planos</a></li>
+                                <li><a class="dropdown-item" href="">Ir para planos</a></li>
                             </ul>
                         </li>
                     </ul>
@@ -122,7 +122,7 @@
                             </li>
                             <li class="d-flex align-items-center mb-2 text-dark">
                                 <i class="bi bi-check-circle text-success me-2"></i>
-                                <span class="fw-bold small">Sharkfit APP</span>
+                                <span class="fw-bold small">SharkFit APP</span>
                             </li>
                         </ul>
                     </div>
@@ -163,7 +163,7 @@
                             </li>
                             <li class="d-flex align-items-center mb-2 text-dark">
                                 <i class="bi bi-check-circle text-success me-2"></i>
-                                <span class="fw-bold small">Sharkfit APP</span>
+                                <span class="fw-bold small">SharkFit APP</span>
                             </li>
                         </ul>
                     </div>
@@ -204,14 +204,15 @@
                             </li>
                             <li class="d-flex align-items-center mb-2 text-dark">
                                 <i class="bi bi-check-circle text-dark me-2"></i>
-                                <span class="fw-bold small">Sharkfit APP</span>
+                                <span class="fw-bold small">SharkFit APP</span>
                             </li>
                         </ul>
                     </div>
                 </div>
             </div>
         </section>
-        <section class="carouel container-fluid">
+        <section class="carousel container p-2">
+            <h1 class="cards__title mb-5" >Nossos Professores</h1>
             <div id="carouselExampleCaptions" class="carousel slide">
                 <div class="carousel-indicators">
                     <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -220,24 +221,24 @@
                 </div>
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                    <img src="https://www.magnific.com/free-photo/beautiful-sportive-girl-posing-with-crossed-arms-dark-wall_7515519.htm#fromView=search&page=1&position=33&uuid=7f969abc-18e5-4e51-b4c8-9ee17c95e5b3&query=Gym+teacher" class="d-block w-100" alt="...">
+                    <img src="img/gabriel.jpg" class="d-block w-100 img-carousel" alt="...">
                     <div class="carousel-caption d-none d-md-block">
-                        <h5>First slide label</h5>
-                        <p>Some representative placeholder content for the first slide.</p>
+                        <h5>Professor Gabriel</h5>
+                        <p>Instrutor da academia.</p>
                     </div>
                     </div>
                     <div class="carousel-item">
-                    <img src="..." class="d-block w-100" alt="...">
+                    <img src="img/helena.jpg" class="d-block w-100 img-carousel" alt="...">
                     <div class="carousel-caption d-none d-md-block">
-                        <h5>Second slide label</h5>
-                        <p>Some representative placeholder content for the second slide.</p>
+                        <h5>Professora Helena</h5>
+                        <p>Professora de Pilates.</p>
                     </div>
                     </div>
                     <div class="carousel-item">
-                    <img src="..." class="d-block w-100" alt="...">
+                    <img src="img/mirele.jpg" class="d-block w-100 img-carousel" alt="...">
                     <div class="carousel-caption d-none d-md-block">
-                        <h5>Third slide label</h5>
-                        <p>Some representative placeholder content for the third slide.</p>
+                        <h5>Professora Mirelle</h5>
+                        <p>Professora de Fit Dance</p>
                     </div>
                     </div>
                 </div>
@@ -254,36 +255,34 @@
 
         <section class="contact_form">
             <h2>Formulário de Feedback</h2>
-            <form>
+            <form class="formulario" id="contato">
                 <div class="form-group">
                     <label for="exampleFormControlInput1">Quem irá nos contatar?</label>
-                    <input type="email" class="form-control" id="exampleFormControlInput1"
+                    <input type="email" class="form-control my-1" id="exampleFormControlInput1"
                         placeholder="name@example.com">
                 </div>
                 <div class="form-group">
                     <label for="exampleFormControlSelect1">Selecione o Professor</label>
-                    <select class="form-control" id="exampleFormControlSelect1">
+                    <select class="form-control my-1" id="exampleFormControlSelect1">
+                        <option>Selecione o Professor</option>
                         <option>Mirelle</option>
                         <option>Gabriel</option>
-                        <option>Robson</option>
                         <option>Helena</option>
                     </select>
                 </div>
                 <div class="form-group">
-                    <label for="exampleFormControlSelect2">Qual Área de exercício</label>
-                    <select multiple class="form-control" id="exampleFormControlSelect2">
-                        <option>Braço</option>
-                        <option>Perna</option>
-                        <option>Peito</option>
-                        <option>Costas</option>
-                        <option>Ombro</option>
+                    <label for="exampleFormControlSelect2">Qual Área de Atuação</label>
+                    <select multiple class="form-control my-1" id="exampleFormControlSelect2">
+                        <option>Pilates</option>
+                        <option>Musculação</option>
+                        <option>Fit Dance</option>
                     </select>
                 </div>
                 <div class="form-group">
                     <label for="exampleFormControlTextarea1">Escreva seu Feedback</label>
-                    <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+                    <textarea class="form-control my-1" id="exampleFormControlTextarea1" rows="3"></textarea>
                 </div>
-                <button class="btn btn-primary" type="submit" id="enviar_formulario">Enviar</button>
+                <button class="btn btn-primary my-2" type="submit" id="enviar_formulario">Enviar</button>
             </form>
 
 
