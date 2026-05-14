@@ -4,7 +4,7 @@ Link git:
 Afazeres Angelo:
 - Organização do Footer
 - Criação Formulario
--
+- Criação dos Alerts
 -
 
 
@@ -12,7 +12,7 @@ Afazeres Angelo:
 Link git:
 Afazeres Caua:
 - Organização Header
-- Criação seção "Hero"
+- Criação Galeria
 -
 -
 
@@ -22,10 +22,9 @@ Afazeres Caua:
 Link git:
 Afazeres Gustavo:
 - Organização da pasta
-- Criação Galeria
+- Criação seção "Hero"
 -
 -
-
 
 
 
