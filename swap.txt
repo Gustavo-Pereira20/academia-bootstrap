@@ -2,8 +2,8 @@
 
 Link git:
 Afazeres Angelo:
--
--
+- Organização do Footer
+- Criação Formulario
 -
 -
 
@@ -11,8 +11,8 @@ Afazeres Angelo:
 
 Link git:
 Afazeres Caua:
--
--
+- Organização Header
+- Criação sec
 -
 -
 
@@ -34,7 +34,7 @@ Link git:
  -
  -
  -
--
+
 
 
 links da pagina do bootstrap dos elementos que vamos usar:
@@ -51,3 +51,5 @@ https://getbootstrap.com/docs/5.3/forms/layout/
 Icones:
 https://icons.getbootstrap.com/
 
+Formulario:
+https://getbootstrap.com/docs/4.4/components/forms/
