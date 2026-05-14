@@ -1,0 +1,53 @@
+
+
+Link git:
+Afazeres Angelo:
+-
+-
+-
+-
+
+
+
+Link git:
+Afazeres Caua:
+-
+-
+-
+-
+
+
+
+
+Link git:
+Afazeres Gustavo:
+-
+-
+-
+-
+
+
+
+
+Link git:
+ Afazeres Pablo:
+ -
+ -
+ -
+-
+
+
+links da pagina do bootstrap dos elementos que vamos usar:
+
+Navbar: 
+https://getbootstrap.com/docs/5.3/components/navbar/
+
+Galeria com carrossel:
+https://getbootstrap.com/docs/5.3/components/carousel/
+
+Formulario de contato:
+https://getbootstrap.com/docs/5.3/forms/layout/
+
+Icones:
+https://icons.getbootstrap.com/
+
