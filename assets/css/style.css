@@ -3,7 +3,6 @@
 }
 
 body{
-    margin-top: 9vh;
 }
 
 .hero{
@@ -14,15 +13,14 @@ body{
 }
 
 
-.frase-hero{
-    
-}
-
 .text-hero{
     color: rgb(255, 255, 255);
-    font-size: large;
+    font-size: 48px;
     font-weight: bold;
     position: absolute;
+    top: 40%;
+    left: 12%;
+    text-align: center;
 }
 
 .fundo{
@@ -30,6 +28,7 @@ body{
     height: 100%;
     display: flex;
     justify-content: center;
+    align-items: center;
     background-color: black;
     opacity: 0.5;
 }
@@ -61,5 +60,24 @@ body{
 }
 
 .navbar{
-    
+    box-shadow: -5px 5px 5px rgba(0, 0, 0, 0.5);
+}
+
+.cards__presentation{
+    display: flex;
+    gap:30px;
+    justify-content: center;
+}
+
+.cards{
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 50px;
+}
+
+.cards__title{
+    color: white;
+    text-align: center;
 }
