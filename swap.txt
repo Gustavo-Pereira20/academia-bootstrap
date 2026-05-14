@@ -12,7 +12,7 @@ Afazeres Angelo:
 Link git:
 Afazeres Caua:
 - Organização Header
-- Criação sec
+- Criação seção "Hero"
 -
 -
 
@@ -21,8 +21,8 @@ Afazeres Caua:
 
 Link git:
 Afazeres Gustavo:
--
--
+- Organização da pasta
+- Criação Galeria
 -
 -
 
@@ -31,8 +31,8 @@ Afazeres Gustavo:
 
 Link git:
  Afazeres Pablo:
- -
- -
+ - Criação da Logo
+ - Organização de Icones
  -
 
 
@@ -53,3 +53,5 @@ https://icons.getbootstrap.com/
 
 Formulario:
 https://getbootstrap.com/docs/4.4/components/forms/
+
+Grupo 2
