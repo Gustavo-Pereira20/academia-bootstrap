@@ -12,8 +12,7 @@ Afazeres Angelo:
 Link git:
 Afazeres Caua:
 - Organização Header
-- Criação Galeria
--
+- Organização CSS
 -
 
 
@@ -31,7 +30,7 @@ Afazeres Gustavo:
 Link git:
  Afazeres Pablo:
  - Criação da Logo
- - Organização de Icones
+ - Criação dos Cards
  -
 
 
@@ -54,3 +53,5 @@ Formulario:
 https://getbootstrap.com/docs/4.4/components/forms/
 
 Grupo 2
+x
+LINK DO REPOSITORIO: https://github.com/Gustavo-Pereira20/academia-bootstrap.git
