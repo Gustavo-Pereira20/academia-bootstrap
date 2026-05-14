@@ -1,37 +1,36 @@
 
 
-Link git:
+
 Afazeres Angelo:
 - Organização do Footer
 - Criação Formulario
 - Criação dos Alerts
--
+- Organização Java script
 
 
 
-Link git:
 Afazeres Caua:
 - Organização Header
 - Organização CSS
--
+- Criação do carousel
 
 
 
 
-Link git:
+
 Afazeres Gustavo:
 - Organização da pasta
 - Criação seção "Hero"
--
--
+- Organização de imagens
 
 
 
-Link git:
+
+
  Afazeres Pablo:
  - Criação da Logo
  - Criação dos Cards
- -
+ - Criação do README
 
 
 
@@ -53,5 +52,4 @@ Formulario:
 https://getbootstrap.com/docs/4.4/components/forms/
 
 Grupo 2
-x
 LINK DO REPOSITORIO: https://github.com/Gustavo-Pereira20/academia-bootstrap.git
